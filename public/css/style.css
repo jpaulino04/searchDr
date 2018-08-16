@@ -1,0 +1,32 @@
+/* body{
+    padding: 10px;
+} */
+
+#showcase{
+    position: relative;
+    background-attachment: scroll;
+    background-image: url('../img/image6.jpg');
+    /* background-size: cover; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    min-height: 850px;}
+    #primary-overlay{
+        background-color: rgb(0, 0, 0, .4);
+        position: absolute;
+        width: 100%;
+        min-height: 850px;
+        left: 0;
+        top: 0;
+    }
+
+    .bg-dark{
+        opacity: .5;
+    }
+
+    #map {
+        height: 300px;
+      }
+#link{
+    color: white;
+}
